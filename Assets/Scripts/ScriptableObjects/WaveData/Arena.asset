@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5d37ab7a46dd0244b0c6ad8b99da4a9, type: 3}
+  m_Name: Arena
+  m_EditorClassIdentifier: 
+  enemySessions:
+  - enemies:
+    - {fileID: 4640082839775715069, guid: e97eca8ec70441144879ec2cdda473a0, type: 3}
+  - enemies:
+    - {fileID: 4640082839775715069, guid: 760c0db81e389e541bf789d6301ff8c0, type: 3}
+  startingEnemiesPerSession: 0a0000000a000000
+  enemiesPerWave: 3
+  waveChangeCheckpoints: 0500000003000000

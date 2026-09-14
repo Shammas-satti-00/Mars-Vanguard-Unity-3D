@@ -1,0 +1,3444 @@
+{
+    "ecsChunks": [
+        {
+            "coordinateX": 0,
+            "coordinateZ": 2,
+            "subSceneName": "C_0_2",
+            "subSceneGUID": "09c19d23fb201904e99d56a20e969e97"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -3,
+            "subSceneName": "C_-1_-3",
+            "subSceneGUID": "a97197f4144309947b8f33ab05a3fd0d"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -2,
+            "subSceneName": "C_0_-2",
+            "subSceneGUID": "e2be48e1875e49e4f9804411f5c59791"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -3,
+            "subSceneName": "C_0_-3",
+            "subSceneGUID": "1492b30151d556c4b9de16d661fe8b15"
+        }
+    ],
+    "colliderChunks": [
+        {
+            "coordinateX": 17,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_17_73"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_18_73"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_17_75"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_17_76"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_17_77"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_18_76"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-4_-72"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_15_76"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_19_76"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_17_72"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_18_77"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_20_78"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_22_76"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_21_75"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_16_72"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_20_73"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_21_76"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_21_74"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_16_78"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_20_77"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_20_71"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_16_75"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_16_76"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_19_78"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_22_75"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_13_74"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_19_79"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_20_72"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 80,
+            "colliderSceneName": "CC_16_80"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_18_78"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 80,
+            "colliderSceneName": "CC_17_80"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_16_73"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_19_73"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_20_75"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_19_75"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_17_71"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_18_72"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_20_74"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_21_77"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_16_74"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_14_76"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_19_74"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_15_78"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_22_74"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_14_77"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_13_76"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_16_77"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_19_72"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_15_71"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_21_73"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_18_75"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_14_74"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_14_72"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_17_79"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_21_78"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_22_77"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_15_73"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_15_77"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_17_74"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_20_79"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_14_73"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_18_74"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_16_79"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 74,
+            "colliderSceneName": "CC_15_74"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_15_79"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_19_77"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_14_75"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 76,
+            "colliderSceneName": "CC_20_76"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_15_75"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_17_78"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_18_71"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_15_72"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 75,
+            "colliderSceneName": "CC_13_75"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_18_79"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_22_73"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_14_78"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 80,
+            "colliderSceneName": "CC_19_80"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": 80,
+            "colliderSceneName": "CC_18_80"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_16_71"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 77,
+            "colliderSceneName": "CC_13_77"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_19_71"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": 70,
+            "colliderSceneName": "CC_17_70"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 73,
+            "colliderSceneName": "CC_13_73"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_21_79"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_22_78"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": 80,
+            "colliderSceneName": "CC_20_80"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 79,
+            "colliderSceneName": "CC_14_79"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": 72,
+            "colliderSceneName": "CC_21_72"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": 78,
+            "colliderSceneName": "CC_13_78"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": 71,
+            "colliderSceneName": "CC_14_71"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_14_-52"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_9_-60"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_9_-62"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_11_-56"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_8_-50"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_13_-48"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_8_-54"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_5_-57"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_20_-56"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_19_-59"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_13_-57"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_6_-53"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_7_-54"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_12_-62"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_12_-56"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_6_-56"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_6_-48"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_16_-55"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_21_-52"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_17_-54"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_18_-50"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_18_-59"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_19_-54"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_13_-61"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_21_-54"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_19_-60"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_5_-54"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_8_-58"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_17_-58"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_17_-50"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_17_-51"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_15_-46"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_20_-54"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_13_-52"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_15_-60"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_16_-51"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_13_-58"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_9_-46"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_6_-54"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_16_-61"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_15_-55"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_16_-56"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_12_-50"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_5_-52"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_4_-58"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_20_-53"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_7_-56"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_16_-49"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_12_-60"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_10_-48"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_14_-61"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_9_-52"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_6_-52"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_16_-63"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_14_-47"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_9_-47"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_11_-48"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_18_-60"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_12_-53"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_12_-51"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_15_-56"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_11_-60"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_18_-56"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_12_-47"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_12_-64"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_18_-49"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_8_-52"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_9_-48"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_11_-55"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_16_-58"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_10_-52"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_13_-53"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_8_-57"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_17_-47"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_20_-58"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_20_-51"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_16_-59"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_4_-54"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_13_-46"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_5_-50"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_21_-58"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_18_-54"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_17_-46"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_9_-58"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_11_-46"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_20_-50"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_12_-58"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_15_-54"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_11_-59"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_9_-63"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_7_-51"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_9_-54"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_7_-58"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_14_-63"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_17_-57"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_8_-59"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_10_-53"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_11_-64"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_17_-63"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_17_-59"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_4_-60"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_20_-55"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_7_-49"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_12_-48"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_13_-50"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_18_-57"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_19_-57"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_8_-56"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_16_-54"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_14_-56"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_15_-49"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_12_-49"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_14_-60"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_16_-48"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_18_-55"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_8_-53"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_4_-56"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_18_-53"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_18_-61"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_15_-53"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_13_-60"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_10_-58"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_11_-49"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_16_-47"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_13_-49"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_19_-53"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_11_-62"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_9_-57"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_11_-52"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_14_-57"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_5_-53"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_17_-55"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_17_-56"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_17_-53"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_5_-60"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_17_-49"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_8_-61"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_7_-60"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_19_-58"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_15_-51"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_7_-62"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_6_-57"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_10_-51"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -45,
+            "colliderSceneName": "CC_12_-45"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_12_-52"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_20_-49"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_19_-56"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_16_-57"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_22_-57"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_14_-59"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_10_-54"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_14_-49"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_19_-49"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_14_-54"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_16_-52"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_9_-64"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_13_-62"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_15_-57"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_13_-47"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_15_-63"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_7_-59"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_13_-51"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_17_-52"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_21_-56"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_13_-64"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_21_-57"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_12_-61"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_17_-61"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_14_-53"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_18_-52"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_21_-51"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_12_-54"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_18_-58"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_19_-50"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_15_-64"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_19_-62"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_15_-59"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_9_-53"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_6_-61"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_4_-57"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_14_-55"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_4_-55"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_7_-55"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_15_-47"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_16_-60"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_14_-48"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_20_-48"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_5_-59"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_9_-50"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_11_-50"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_5_-58"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_9_-49"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_18_-51"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_6_-49"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_10_-49"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_16_-64"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_15_-61"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_5_-51"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_21_-53"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_9_-51"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_21_-50"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_9_-56"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_13_-59"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_14_-51"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_8_-47"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_12_-57"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_12_-59"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_10_-59"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_11_-54"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_10_-57"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_8_-48"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_15_-58"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_6_-59"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_20_-60"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_20_-57"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -54,
+            "colliderSceneName": "CC_3_-54"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_7_-57"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_21_-55"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_16_-50"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_18_-47"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_4_-52"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_17_-48"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_11_-58"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_11_-53"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_7_-61"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_3_-58"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_22_-58"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_19_-61"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_7_-53"
+        },
+        {
+            "coordinateX": 22,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_22_-55"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_11_-51"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_13_-55"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_17_-60"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -57,
+            "colliderSceneName": "CC_11_-57"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_12_-63"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_10_-62"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_15_-52"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_13_-63"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_8_-49"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_10_-64"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_6_-51"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_14_-46"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_6_-58"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_16_-46"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -58,
+            "colliderSceneName": "CC_14_-58"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_20_-52"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_18_-48"
+        },
+        {
+            "coordinateX": 20,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_20_-59"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -46,
+            "colliderSceneName": "CC_12_-46"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_7_-50"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_14_-65"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_6_-60"
+        },
+        {
+            "coordinateX": 13,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_13_-56"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_16_-62"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_14_-50"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_10_-55"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_19_-52"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_19_-55"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -49,
+            "colliderSceneName": "CC_5_-49"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_10_-47"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_14_-62"
+        },
+        {
+            "coordinateX": 16,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_16_-53"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_6_-50"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_10_-50"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_9_-61"
+        },
+        {
+            "coordinateX": 17,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_17_-62"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_19_-48"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -50,
+            "colliderSceneName": "CC_15_-50"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_9_-55"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -45,
+            "colliderSceneName": "CC_14_-45"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_10_-56"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_11_-61"
+        },
+        {
+            "coordinateX": 19,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_19_-51"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -56,
+            "colliderSceneName": "CC_5_-56"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_10_-60"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_15_-62"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_18_-63"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_8_-62"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_5_-55"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_8_-55"
+        },
+        {
+            "coordinateX": 12,
+            "coordinateZ": -55,
+            "colliderSceneName": "CC_12_-55"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -52,
+            "colliderSceneName": "CC_7_-52"
+        },
+        {
+            "coordinateX": 15,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_15_-48"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_21_-59"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_4_-51"
+        },
+        {
+            "coordinateX": 18,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_18_-62"
+        },
+        {
+            "coordinateX": 7,
+            "coordinateZ": -48,
+            "colliderSceneName": "CC_7_-48"
+        },
+        {
+            "coordinateX": 10,
+            "coordinateZ": -61,
+            "colliderSceneName": "CC_10_-61"
+        },
+        {
+            "coordinateX": 9,
+            "coordinateZ": -59,
+            "colliderSceneName": "CC_9_-59"
+        },
+        {
+            "coordinateX": 11,
+            "coordinateZ": -47,
+            "colliderSceneName": "CC_11_-47"
+        },
+        {
+            "coordinateX": 14,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_14_-64"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_8_-60"
+        },
+        {
+            "coordinateX": 8,
+            "coordinateZ": -51,
+            "colliderSceneName": "CC_8_-51"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_4_-53"
+        },
+        {
+            "coordinateX": 21,
+            "coordinateZ": -60,
+            "colliderSceneName": "CC_21_-60"
+        },
+        {
+            "coordinateX": 6,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_6_-62"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -53,
+            "colliderSceneName": "CC_3_-53"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-3_-69"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_5_-75"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-4_-69"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-1_-77"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_0_-74"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-1_-69"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-4_-77"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-6_-66"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-6_-74"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-3_-79"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-2_-69"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_2_-70"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-1_-70"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-9_-70"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_1_-71"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-4_-68"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-3_-72"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-10_-74"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_3_-67"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_0_-79"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-2_-76"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-6_-81"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-1_-79"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-7_-73"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-10_-77"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-2_-80"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-4_-63"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-8_-65"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-1_-68"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-4_-74"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-1_-71"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-2_-77"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-6_-69"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-5_-77"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-12_-74"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_4_-75"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-6_-78"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_1_-70"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_0_-69"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-5_-66"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-3_-80"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-9_-75"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-9_-77"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_0_-75"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_1_-76"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-4_-73"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-10_-67"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-10_-72"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-7_-68"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-6_-73"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-8_-73"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-9_-74"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_2_-73"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-5_-65"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-11_-78"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-9_-69"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-13_-69"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_4_-71"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-8_-76"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_3_-66"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-1_-75"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-3_-74"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-10_-71"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_1_-73"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-2_-78"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-11_-73"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_3_-76"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-6_-70"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-11_-74"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-9_-72"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-4_-80"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_1_-68"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-11_-65"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-11_-72"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_4_-69"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-6_-68"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-7_-72"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-4_-64"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_4_-74"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-10_-76"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_1_-75"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_0_-77"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-6_-75"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_4_-67"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_5_-73"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_1_-72"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-2_-81"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-8_-68"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_1_-67"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_0_-76"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-2_-79"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-11_-68"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-9_-80"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-6_-79"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-5_-68"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-3_-76"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-12_-76"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-12_-72"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_0_-72"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-7_-74"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_2_-75"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_3_-70"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-5_-78"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_0_-70"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-11_-77"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-8_-64"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_4_-72"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_4_-68"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_0_-80"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-11_-71"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_0_-66"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-7_-67"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-5_-75"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-5_-64"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-3_-64"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_0_-65"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-4_-66"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_3_-77"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-11_-76"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-10_-65"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-1_-66"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_2_-68"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-3_-77"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-3_-78"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-7_-70"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-12_-71"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-4_-65"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-7_-71"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-3_-73"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-5_-74"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_2_-78"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-6_-77"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-5_-71"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-1_-64"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_1_-77"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_0_-68"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-2_-63"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-7_-81"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-7_-69"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_5_-76"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-4_-70"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-8_-71"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-7_-64"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-10_-68"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-4_-67"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-8_-79"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-8_-63"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-5_-76"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-8_-78"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_2_-77"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-7_-66"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-1_-78"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-9_-73"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_5_-69"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-9_-76"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-8_-74"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_1_-74"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-8_-72"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-9_-71"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-12_-75"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-5_-69"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-12_-68"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-13_-72"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_4_-73"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-7_-79"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_1_-66"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-8_-70"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-9_-78"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_0_-67"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-11_-67"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-10_-73"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-13_-74"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-4_-71"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-1_-73"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-10_-69"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-3_-65"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-10_-78"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-5_-72"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-11_-75"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-13_-70"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-7_-65"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_1_-79"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_5_-72"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-8_-80"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-4_-75"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-5_-81"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-1_-76"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_2_-69"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_1_-80"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-2_-70"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-1_-72"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-2_-71"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-10_-66"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-1_-65"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-2_-64"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-4_-78"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-3_-68"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-8_-67"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-2_-74"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_2_-76"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-7_-77"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-6_-72"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -62,
+            "colliderSceneName": "CC_-7_-62"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-3_-75"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_-6_-64"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-6_-63"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-6_-71"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-10_-75"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_1_-65"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-1_-67"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_2_-71"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-2_-65"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-3_-81"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-8_-69"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-5_-67"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_0_-71"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-6_-76"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_5_-71"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_2_-74"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-6_-80"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-2_-75"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-1_-80"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_0_-64"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-9_-67"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -64,
+            "colliderSceneName": "CC_1_-64"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-13_-76"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-9_-68"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-12_-67"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-8_-77"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_2_-65"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-5_-80"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-7_-76"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-5_-79"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_-1_-74"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -82,
+            "colliderSceneName": "CC_-4_-82"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_-2_-68"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-11_-69"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-8_-75"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -74,
+            "colliderSceneName": "CC_3_-74"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_2_-79"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-6_-65"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-11_-70"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_-9_-65"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_-2_-72"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-3_-71"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-2_-67"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-3_-70"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-4_-79"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-7_-75"
+        },
+        {
+            "coordinateX": -10,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-10_-70"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_2_-66"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -80,
+            "colliderSceneName": "CC_-7_-80"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_2_-67"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_3_-73"
+        },
+        {
+            "coordinateX": -11,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-11_-79"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_0_-63"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_4_-77"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-5_-70"
+        },
+        {
+            "coordinateX": -3,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-3_-67"
+        },
+        {
+            "coordinateX": 2,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_2_-72"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-12_-70"
+        },
+        {
+            "coordinateX": -8,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-8_-66"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_4_-78"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_1_-69"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-13_-73"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_0_-78"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-7_-63"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-2_-66"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_-1_-81"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_0_-73"
+        },
+        {
+            "coordinateX": -1,
+            "coordinateZ": -63,
+            "colliderSceneName": "CC_-1_-63"
+        },
+        {
+            "coordinateX": -6,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-6_-67"
+        },
+        {
+            "coordinateX": -14,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-14_-71"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -77,
+            "colliderSceneName": "CC_-12_-77"
+        },
+        {
+            "coordinateX": 4,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_4_-76"
+        },
+        {
+            "coordinateX": -14,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-14_-73"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-12_-73"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -68,
+            "colliderSceneName": "CC_3_-68"
+        },
+        {
+            "coordinateX": 5,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_5_-70"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-12_-66"
+        },
+        {
+            "coordinateX": -14,
+            "coordinateZ": -70,
+            "colliderSceneName": "CC_-14_-70"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -72,
+            "colliderSceneName": "CC_3_-72"
+        },
+        {
+            "coordinateX": -7,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_-7_-78"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -79,
+            "colliderSceneName": "CC_-9_-79"
+        },
+        {
+            "coordinateX": 3,
+            "coordinateZ": -65,
+            "colliderSceneName": "CC_3_-65"
+        },
+        {
+            "coordinateX": -12,
+            "coordinateZ": -69,
+            "colliderSceneName": "CC_-12_-69"
+        },
+        {
+            "coordinateX": -4,
+            "coordinateZ": -76,
+            "colliderSceneName": "CC_-4_-76"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -75,
+            "colliderSceneName": "CC_-13_-75"
+        },
+        {
+            "coordinateX": -5,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-5_-73"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -71,
+            "colliderSceneName": "CC_-13_-71"
+        },
+        {
+            "coordinateX": -9,
+            "coordinateZ": -66,
+            "colliderSceneName": "CC_-9_-66"
+        },
+        {
+            "coordinateX": 1,
+            "coordinateZ": -78,
+            "colliderSceneName": "CC_1_-78"
+        },
+        {
+            "coordinateX": -2,
+            "coordinateZ": -73,
+            "colliderSceneName": "CC_-2_-73"
+        },
+        {
+            "coordinateX": -13,
+            "coordinateZ": -67,
+            "colliderSceneName": "CC_-13_-67"
+        },
+        {
+            "coordinateX": 0,
+            "coordinateZ": -81,
+            "colliderSceneName": "CC_0_-81"
+        }
+    ],
+    "chunkSize": 30000.0,
+    "colliderChunkSize": 1000.0,
+    "subScenePrefix": "C_",
+    "colliderChunkPrefix": "CC_"
+}

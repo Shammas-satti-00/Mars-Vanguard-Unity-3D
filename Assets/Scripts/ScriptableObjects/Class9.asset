@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57ee32daa7e6244babcee9a9bd520a9, type: 3}
+  m_Name: Class9
+  m_EditorClassIdentifier: 
+  classNumber: 9
+  health: 900
+  shield: 500
+  healthRegenPerSecond: 5
+  shieldRegenPerSecond: 10
+  cannonDamage: 50
+  missileDamage: 300
+  missileSpeed: 53
+  lifeTime: 0
+  targetTag: PlayerCollider
+  moveSpeed: 60
+  difficulty: 10
+  rewardCredits: 7000
+  rewardPerCannon: 200

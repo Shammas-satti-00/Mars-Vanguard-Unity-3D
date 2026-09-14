@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5030415571743564818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2395685609330510585}
+  - component: {fileID: 5898609795211690630}
+  - component: {fileID: 7827171670105047292}
+  m_Layer: 0
+  m_Name: Quasar-ZX
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2395685609330510585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030415571743564818}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5898609795211690630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030415571743564818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc31b47259039346aa0dcc4cac63404, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotNumber: 0
+  firePoint: {fileID: 0}
+  isPlayerControlled: 0
+  label: Quasar-ZX
+  sprite: {fileID: 21300000, guid: 882e5bde94b3c2b41b2905439e32efdc, type: 3}
+  projectileSpeed: 500
+  maxRange: 1000
+  projectileDamage: 25
+  fireRate: 7
+  lifetime: 4
+  targetTag: Enemy
+  muzzleFlashPrefab: {fileID: 0}
+  impactEffectPrefab: {fileID: 0}
+  bulletTrail: {fileID: 0}
+  projectilePrefabIndex: 0
+  muzzleFlashPrefabIndex: 0
+  impactEffectPrefabIndex: 0
+  magazineCapacity: 120
+  ammoPerShot: 1
+  recoveryRatePerSecond: 4
+  recoveryDelay: 2
+  startFull: 1
+  raycastLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  triggerInteraction: 1
+  currentAmmo: 0
+--- !u!114 &7827171670105047292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030415571743564818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730acedc331e0f2429be22467c1ca0c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unlockPrice: 6800
+  maxLevel: 10
